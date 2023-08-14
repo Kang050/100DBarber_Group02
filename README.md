@@ -21,6 +21,7 @@ Trương Hoàng Nguyên (Student1418253)
 =======================================
 
 Documentations : https://github.com/Kang050/100D_Barber/tree/main/Documentations
+
 Video clip: https://www.youtube.com/watch?v=po7k6u1eWZ0
 
 =======================================
