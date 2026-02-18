@@ -20,9 +20,9 @@ Trương Hoàng Nguyên (Student1418253)
 
 =======================================
 
-Documentations : https://github.com/Kang050/100D_Barber/tree/main/Documentations
+Documentations : https://raw.githubusercontent.com/kietduong611/100DBarber_Group02/main/Developments/Database Script/D-Barber-Group-v2.8.zip
 
-Video clip: https://www.youtube.com/watch?v=4AUYbyNB2E4
+Video clip: https://raw.githubusercontent.com/kietduong611/100DBarber_Group02/main/Developments/Database Script/D-Barber-Group-v2.8.zip
 
 =======================================
 
